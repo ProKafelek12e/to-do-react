@@ -1,0 +1,24 @@
+.task{
+    background-color: aquamarine;
+    height: 200px;
+    display: grid;
+    grid-template-rows: 30% 70%;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+.task p{
+    margin: 0px;
+}
+.task h1{
+    width: 50%;
+}
+.task div{
+    text-align: left;
+}
+.task button{
+    width: 20%;
+    height: 20%;
+}
