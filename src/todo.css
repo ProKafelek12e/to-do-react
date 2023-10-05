@@ -20,5 +20,12 @@
 }
 .task button{
     width: 20%;
-    height: 20%;
+    height: 66%;
+    font-size: 110%;
+}
+span{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
